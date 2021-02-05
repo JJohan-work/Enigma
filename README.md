@@ -40,11 +40,31 @@
 * Verify install works by running ```npm run test``` and ```npm run build```
 
 * * *
+
 ## Known Bugs
 
 * _Any known issues_
 * _should go here_
 
-## License
+* * *
+
+## To Do:
+* {future changes to the project}
+
+* * *
+
+## Addition comments:
+* Created on x/x/21  
+* Currently in development and unfinished (*as of x/x/21*)
+
+* * *
+
+## License:
+> *&copy; Jonah Johansen, 2021*
+
+Licensed under [MIT license](https://mit-license.org/)
+
+* * *
 
 ## Contact Information
+_Jonah Johansen: [Email](johansenjonah+git@gmail.com)_
